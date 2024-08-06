@@ -114,16 +114,13 @@ skills:
       - name: Docker
         description: ''
         icon: devicon/docker
-      - name: Wireshark
-        description: ''
-        icon: custom/wireshark
       - name: Linux
         description: ''
         icon: devicon/ubuntu
       - name: Git
         description: ''
         icon: devicon/git
-  - name: Games
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
