@@ -123,8 +123,6 @@ skills:
       - name: Git
         description: ''
         icon: devicon/git
-
-skills:
   - name: Games
     color: '#eeac02'
     color_border: '#f0bf23'

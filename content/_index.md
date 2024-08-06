@@ -37,10 +37,6 @@ sections:
     content:
       title: Skills
       username: admin  
-  - block: skills
-    content:
-      title: Hobbies
-      username: admin
   - block: awards
     content:
       title: Awards
