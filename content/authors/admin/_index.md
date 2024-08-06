@@ -124,7 +124,7 @@ skills:
         description: ''
         icon: devicon/git
 
-interests:
+skills:
   - name: Games
     color: '#eeac02'
     color_border: '#f0bf23'

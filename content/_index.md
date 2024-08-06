@@ -37,7 +37,7 @@ sections:
     content:
       title: Skills
       username: admin  
-  - block: interests
+  - block: skills
     content:
       title: Hobbies
       username: admin
