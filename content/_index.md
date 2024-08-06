@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-08-06
 type: landing
 
 design:
@@ -17,11 +17,11 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/resume.pdf
+        url: uploads/Jian_Fong_Yu_Resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: banner.png
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'

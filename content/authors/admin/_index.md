@@ -1,172 +1,189 @@
 ---
 # Display name
-title: 吳健雄
+title: 游建峰 (Bee Yu)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jian Fong Yu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jian Fong
+last_name: Yu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😎
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: MCS Student @ UIUC | Senior CS Student @ NYCU
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  # - name: GenCoin
+  #   url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:bee000092@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/bee0511
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/bee0511/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  # - area: PhD Artificial Intelligence
+  #   institution: Stanford University
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com'
+  - area: Master of Computer Science
+    institution: University of Illinois Urbana‑Champaign
+    date_start: 2024-08-26
+    date_end: 2026-05-11
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Computer Science
+    institution: National Yang Ming Chiao Tung University
+    date_start: 2021-09-01
+    date_end: 2025-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.0/4.0 (4.26/4.3)
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer Networks: Intro. to Computer Networks, Intro. to Network Programming
+      - Computer Security: Intro. to Cryptography, Cryptography Engineering, Computer Security Capstone
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  # - position: Director of Cloud Infrastructure
+  #   company_name: GenCoin
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2021-01-01
+  #   date_end: ''
+  #   summary: |2-
+  #     Responsibilities include:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Undergraduate Research Assistant
+    company_name: Wireless Internet Research and Engineering Laboratory
+    # company_url: ''
+    # company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2024-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Integrated 5G and MQTT for enhanced IoT connectivity and real‑time monitoring in digital twin technology.
+      -  Utilized Python scripts in NVIDIA Isaac Sim and ROS JetArm to simulate and control digital twins for accurate real‑time representation and feedback.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
+    color: '#4ba9cb'
+    color_border: '#84d5fe'
     items:
+      - name: C++
+        description: ''
+        icon: devicon/cplusplus
       - name: Python
         description: ''
-        percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: JavaScript
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: devicon/javascript
+      - name: Golang
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        icon: devicon/go
+  - name: Tools & Technologies
+    items:
+      - name: Docker
+        description: ''
+        icon: devicon/docker
+      - name: Wireshark
+        description: ''
+      - name: Linux
+        description: ''
+        icon: devicon/ubuntu
+      - name: Git
+        description: ''
+        icon: devicon/git
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Minecraft
         description: ''
         percent: 80
-        icon: camera
+        icon: ⛏️
+      - name: Music Games
+        description: 'Especially for Mai Mai'
+        percent: 50
+        icon: 🎵
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Japanese
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Course Award of Intro. to Operating System
+    date: '2024-03-15'
+    awarder: NYCU
+    # icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Top 5% student in the course.
+
+  - title: Course Award of Computer Organization
+    date: '2023-10-16'
+    awarder: NYCU
+    # icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Top 5% student in the course.
+
+  - title: Course Award of Intro. to Algorithm
+    date: '2023-03-16'
+    awarder: NYCU
+    # icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Top 5% student in the course.
+
+  - title: Three-time Honor Student
+    date: '2023-09-01'
+    awarder: NYCU
+    # icon: edx
+    summary: |
+      Top 5% student in the computer science department.
+      
+  - title: '1st Place in 2022 Hsinchu X Mei-Chu Hackathon Maker Group'
+    url: https://tw.news.yahoo.com/2022-%E6%96%B0%E7%AB%B9x%E6%A2%85%E7%AB%B9%E9%BB%91%E5%AE%A2%E6%9D%BE-%E7%AB%B6%E8%B3%BD%E7%B5%90%E6%9E%9C%E5%87%BA%E7%88%90-102750795.html
+    date: '2022-10-21'
+    awarder: 新竹市政府 (Hsinchu City Government)
+    summary: |
+      Participated in the 2022 Hsinchu X Mei-Chu Hackathon, where our team, 藍黑雙劍快速GPA4.3連擊封bee鬼 (Blue and Black Dual Swords Quick GPA 4.3 Combo Seals Bee Ghost), proposed an innovative solution aimed at optimizing user experience for restaurant selection based on various criteria such as location, user reviews, and specific user requirements.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently a student in the UIUC-NYCU 3+X program and pursuing a Master of Computer Science (MCS) at the University of Illinois Urbana-Champaign (UIUC). My research interests includes computer networking and computer security.
