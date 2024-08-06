@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 游建峰 (Bee Yu)
+title: 游建峰
 
 # Name pronunciation (optional)
-name_pronunciation: Jian Fong Yu
+name_pronunciation: Yu Jian Fong
 
 # Full name (for SEO)
 first_name: Jian Fong
@@ -96,8 +96,6 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Programming Languages
-    color: '#4ba9cb'
-    color_border: '#84d5fe'
     items:
       - name: C++
         description: ''
@@ -118,32 +116,34 @@ skills:
         icon: devicon/docker
       - name: Wireshark
         description: ''
+        icon: custom/wireshark
       - name: Linux
         description: ''
         icon: devicon/ubuntu
       - name: Git
         description: ''
         icon: devicon/git
-  - name: Hobbies
+
+interests:
+  - name: Games
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Minecraft
-        description: ''
+        description: 'My interests are mainly about developing minecraft bots.'
         percent: 80
-        icon: ⛏️
-      - name: Music Games
-        description: 'Especially for Mai Mai'
+      - name: Mai Mai
+        description: 'Currently rating is about 13000'
         percent: 50
-        icon: 🎵
+
 
 languages:
-  - name: English
-    percent: 80
   - name: Chinese
     percent: 100
+  - name: English
+    percent: 80
   - name: Japanese
-    percent: 20
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.

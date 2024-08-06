@@ -35,7 +35,11 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills
+      username: admin  
+  - block: interests
+    content:
+      title: Hobbies
       username: admin
   - block: awards
     content:
